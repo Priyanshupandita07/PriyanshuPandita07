@@ -342,9 +342,11 @@ Delivered the Nisargamitra Olympiad platform independently — a web-based compe
 
 ![streak](https://streak-stats.demolab.com?user=Priyanshupandita07&theme=tokyonight&hide_border=true)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Priyanshupandita07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![stats](https://github-readme-stats-extended.vercel.app/api?username=Priyanshupandita07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshupandita07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Priyanshupandita07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+
 
 <br/>
 
@@ -373,6 +375,7 @@ Delivered the Nisargamitra Olympiad platform independently — a web-based compe
 <div align="center">
 <h2>⬡ &nbsp; Current Focus</h2>
 </div>
+
 
 <div align="center">
 <h2>⬡ &nbsp; Connect</h2>
