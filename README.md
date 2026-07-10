@@ -221,12 +221,12 @@ Data analysis · forensic technology · dashboard creation · drawing business c
 </div>
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshupandita07&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=7C3AED&text_color=c4b5fd&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshupandita07&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6D28D9&ring=7C3AED&fire=A78BFA&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6D28D9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshupandita07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Priyanshupandita07&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshupandita07&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c4b5fd&layout=compact&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshupandita07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
 </div>
 <br/>
 
@@ -235,7 +235,7 @@ Data analysis · forensic technology · dashboard creation · drawing business c
 </div>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshupandita07&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanshupandita07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 </div>
 <br/>
 
@@ -244,7 +244,7 @@ Data analysis · forensic technology · dashboard creation · drawing business c
 </div>
 <br/>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshupandita07&theme=react-dark&bg_color=0d0d1a&color=A78BFA&line=7C3AED&point=c4b5fd&area=true&area_color=6D28D9&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshupandita07&theme=tokyo-night&hide_border=true" />
 </div>
 <br/>
 
