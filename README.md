@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Priyanshu%20Pandita&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20GCP%20%7C%20BigQuery%20%7C%20PySpark%20%7C%20Python&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+End-to-End+ETL+Pipelines+on+GCP;BigQuery+%7C+PySpark+%7C+Cloud+Scheduler+%7C+Dataproc;500K%2B+rows+processed+%7C+Production+pipelines+shipped" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Data+Engineer+%7C+GCP+%7C+BigQuery+%7C+PySpark+%7C+Python" />
 <br/>
 <img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/MIT%20World%20Peace%20University-Pune%2C%20India-7C3AED?style=for-the-badge&logo=university&logoColor=white" />
