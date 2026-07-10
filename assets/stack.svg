@@ -1,0 +1,46 @@
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="sBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0A14"/>
+      <stop offset="55%" stop-color="#110F26"/>
+      <stop offset="100%" stop-color="#0B0A14"/>
+    </linearGradient>
+    <pattern id="sgrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#2A2454" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="436" rx="22" fill="url(#sBg)" stroke="url(#sBorder)" stroke-width="2.5"/>
+  <rect x="2" y="2" width="1196" height="436" rx="22" fill="url(#sgrid)"/>
+
+  <rect x="52" y="44" width="140" height="34" rx="17" fill="#151230" stroke="#4C1D95" stroke-width="1"/>
+  <text x="122" y="66" font-family="'Courier New', monospace" font-weight="700" font-size="14" fill="#A78BFA" letter-spacing="2.5" text-anchor="middle">TECH STACK</text>
+
+  <text x="52" y="126" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="40" fill="#FFFFFF">Data-first engineering.</text>
+  <text x="52" y="158" font-family="Arial, sans-serif" font-weight="600" font-size="17" fill="#8783A8">Organized by how I build — pipelines first, product second.</text>
+
+  <rect x="52" y="186" width="1096" height="72" rx="14" fill="#0E0C20" stroke="#8B5CF6" stroke-width="1.2"/>
+  <text x="76" y="216" font-family="'Courier New', monospace" font-weight="700" font-size="14" fill="#A78BFA" letter-spacing="2">01 / DATA ENGINEERING — core layer</text>
+  <text x="76" y="242" font-family="Arial, sans-serif" font-weight="700" font-size="15.5" fill="#D6D3EE">SQL (Advanced) · Python · Pandas · NumPy · PySpark · ETL Design · Data Cleaning</text>
+  <rect x="52" y="186" width="4" height="72" rx="2" fill="#8B5CF6">
+    <animate attributeName="height" values="0;72" dur="1s" fill="freeze"/>
+  </rect>
+
+  <rect x="52" y="272" width="1096" height="72" rx="14" fill="#0E0C20" stroke="#6366F1" stroke-width="1.2"/>
+  <text x="76" y="302" font-family="'Courier New', monospace" font-weight="700" font-size="14" fill="#818CF8" letter-spacing="2">02 / CLOUD — GCP native</text>
+  <text x="76" y="328" font-family="Arial, sans-serif" font-weight="700" font-size="15.5" fill="#D6D3EE">BigQuery · Dataproc · Cloud Storage · Cloud Scheduler · Serverless Spark</text>
+  <rect x="52" y="272" width="4" height="72" rx="2" fill="#6366F1">
+    <animate attributeName="height" values="0;72" dur="1.4s" fill="freeze"/>
+  </rect>
+
+  <rect x="52" y="358" width="1096" height="56" rx="14" fill="#0E0C20" stroke="#A855F7" stroke-width="1.2"/>
+  <text x="76" y="382" font-family="'Courier New', monospace" font-weight="700" font-size="14" fill="#C084FC" letter-spacing="2">03 / PRODUCT</text>
+  <text x="76" y="403" font-family="Arial, sans-serif" font-weight="700" font-size="14.5" fill="#D6D3EE">React · JavaScript · REST APIs · JWT Auth · MySQL · SQLAlchemy · Git</text>
+  <rect x="52" y="358" width="4" height="56" rx="2" fill="#A855F7">
+    <animate attributeName="height" values="0;56" dur="1.8s" fill="freeze"/>
+  </rect>
+</svg>
