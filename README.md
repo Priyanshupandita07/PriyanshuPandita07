@@ -294,7 +294,7 @@ Delivered the Nisargamitra Olympiad platform independently — a web-based compe
 | 🥉 **3rd Place — HackMIT (MIT-WPU)** | Built AI-powered chatbot tutor with voice commands and real-time emotion detection · 30+ teams |
 | 🇮🇳 **Smart India Hackathon 2023** | Ranked among top teams out of 500+ college-level participants |
 | 🎓 **Deloitte Australia Forage Simulation** | Data analysis, forensic technology, dashboard creation · Certificate June 2026 |
-| 🚀 **BitePay Co-Founder** | Production B2B SaaS · 20 restaurant clients · 12,500+ orders |
+| 🚀 **BitePay** | Production B2B SaaS · 20 restaurant clients · 12,500+ orders |
 
 </div>
 
