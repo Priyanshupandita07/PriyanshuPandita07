@@ -108,20 +108,6 @@ Delivered the Nisargamitra Olympiad platform independently — onboarding 200+ s
 
 </div>
 
-<br/>
-
-<div align="center">
-<h2>⬡ &nbsp; Current Focus</h2>
-</div>
-
-```yaml
-learning:   [Advanced SQL — LeetCode 36/75, dbt fundamentals, BigQuery optimisation]
-building:   [Pipeline monitoring & alerting, dbt transformation layers]
-exploring:  [Airflow orchestration, Pub/Sub streaming, star schema modelling]
-open_to:    [Data Engineering · Analytics Engineering · full-time, June 2026]
-```
-
-<br/>
 
 <div align="center">
 
