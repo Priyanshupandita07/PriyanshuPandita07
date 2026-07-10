@@ -319,40 +319,6 @@ Delivered the Nisargamitra Olympiad platform independently — a web-based compe
 ---
 
 <div align="center">
-<h2>⬡ &nbsp; Coding Profiles</h2>
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://leetcode.com/Priyanshupandita07"><img src="https://img.shields.io/badge/LeetCode-SQL%20%7C%2036%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://geeksforgeeks.org/user/Priyanshupandita07"><img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://hackerrank.com/Priyanshupandita07"><img src="https://img.shields.io/badge/HackerRank-Competitive%20Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-<h2>⬡ &nbsp; GitHub Analytics</h2>
-</div>
-
-![streak](https://streak-stats.demolab.com?user=Priyanshupandita07&theme=tokyonight&hide_border=true)
-
-![stats](https://github-stats-extended.vercel.app/api?username=Priyanshupandita07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Priyanshupandita07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-
-
-<br/>
-
----
-
-<div align="center">
 <h2>⬡ &nbsp; Contribution Snake</h2>
 </div>
 
@@ -369,12 +335,6 @@ Delivered the Nisargamitra Olympiad platform independently — a web-based compe
 </div>
 
 <br/>
-
----
-
-<div align="center">
-<h2>⬡ &nbsp; Current Focus</h2>
-</div>
 
 
 <div align="center">
